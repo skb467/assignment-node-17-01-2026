@@ -10,6 +10,6 @@ FRONTEND_HOST=http://localhost:3000
 
 EMAIL_HOST=smtp.gmail.com
 EMAIL_PORT=587
-EMAIL_USER=sudipkumarbose8@gmail.com
-EMAIL_PASS=rjwg fkqt horu ucsy
-EMAIL_FROM=sudipkumarbose8@gmail.com
+EMAIL_USER=
+EMAIL_PASS=
+EMAIL_FROM=
